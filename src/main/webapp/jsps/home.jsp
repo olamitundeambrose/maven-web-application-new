@@ -13,7 +13,7 @@
 	<h1>GOD's People</h1>
 <h2 align="center"> We are supporting the Ebay Black Friday Project.
 	Landmark Technologies is a software development company. 
-	Class25 will run from October 2, 2021.
+	Class25 will run from October 2, 2021. oh yes
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
