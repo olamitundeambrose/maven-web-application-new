@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
-	<h1>GOD's People</h1>
+	<h1>GOD's People are here</h1>
 <h2 align="center"> We are supporting the Ebay Black Friday Project.
 	Landmark Technologies is a software development company. 
 	Class25 will run from October 2, 2021. oh yes
